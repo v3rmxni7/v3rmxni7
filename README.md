@@ -48,14 +48,8 @@ I love working at the intersection of **Machine Learning, MLOps, and Software En
 
 ---
 
-## 📈 GitHub Stats
-![Nischay's GitHub stats](https://github-readme-stats.vercel.app/api?username=v3rmxni7&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=v3rmxni7&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Let's Connect
-- 💼 GitHub: [@v3rmxni7](https://github.com/v3rmxni7)  
+- 🐦 X: [x.com/v3rmxni7](https://x.com/v3rmxni7)  
 - 🔗 LinkedIn: [linkedin.com/in/nischayvermani](https://www.linkedin.com/in/nischayvermani)  
 - 📧 Email: nischay_v@ee.iitr.ac.in  
 
