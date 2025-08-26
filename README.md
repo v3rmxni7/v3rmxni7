@@ -1,13 +1,11 @@
 # 👋 Hi, I'm Nischay
 
-I’m passionate about designing and deploying **AI/ML systems** that scale.  
-Currently building **end-to-end ML pipelines** with industry-level practices (data ingestion → preprocessing → training → deployment).  
+I’m passionate about designing and deploying **AI/ML systems pipelines** that scale.
 I love working at the intersection of **Machine Learning, MLOps, and Software Engineering**, and I’m always exploring cutting-edge frameworks.
 
 ---
 
 ## 🚀 What I Do
-- 🔭 Working on **AI Resume Analyzer**, **Twitter Sentiment Analysis**, and **Stock Price Movement Classifier**  
 - 📊 Exploring **Recommender Systems, Deep Learning Architectures, and NLP**  
 - ⚡ Practicing **MLOps**: reproducibility, versioning, CI/CD, model deployment  
 - 🌱 Constantly learning advanced **system design, distributed computing, and cloud platforms**  
