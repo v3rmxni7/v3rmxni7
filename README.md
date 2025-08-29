@@ -5,7 +5,7 @@ I love working at the intersection of **Machine Learning, MLOps, and Software En
 
 ---
 
-## 🚀 What I Do
+## 🚀 What I Do -
 - 📊 Exploring **Recommender Systems, Deep Learning Architectures, and NLP**  
 - ⚡ Practicing **MLOps**: reproducibility, versioning, CI/CD, model deployment  
 - 🌱 Constantly learning advanced **system design, distributed computing, and cloud platforms**  
