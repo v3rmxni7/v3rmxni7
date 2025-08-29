@@ -42,9 +42,9 @@ I love working at the intersection of **Machine Learning, MLOps, and Software En
 ---
 
 ## 📫 Let's Connect
-- 🐦 X: [x.com/v3rmxni7](https://x.com/v3rmxni7)  
-- 🔗 LinkedIn: [linkedin.com/in/nischayvermani](https://www.linkedin.com/in/nischayvermani)  
-- 📧 Email: nischay_v@ee.iitr.ac.in  
+- 🐦 X : [x.com/v3rmxni7](https://x.com/v3rmxni7)  
+- 🔗 LinkedIn : [linkedin.com/in/nischayvermani](https://www.linkedin.com/in/nischayvermani)  
+- 📧 Email:  nischay_v@ee.iitr.ac.in  
 
 ---
 
