@@ -73,13 +73,6 @@ AWS · Google Cloud · Git · VS Code
 
 ---
 
-## 🎯 Currently Looking For
-
-AI Engineer / ML Engineer / Generative AI Internships  
-Teams building **real products**, not just demos.
-
----
-
 <p align="center">
   <i>“Engineering data into intelligence — and intelligence into impact.”</i>
 </p>
