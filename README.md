@@ -1,47 +1,59 @@
-# Nischay Vermani
+<h1 align="center">Nischay Vermani</h1>
 
-**AI / ML Engineer | Generative AI • MLOps • Systems**
+<p align="center">
+  <b>AI / ML Engineer</b> · Generative AI · MLOps · Systems Engineering  
+</p>
 
-I build **production-grade AI systems** — from data pipelines and model training to deployment, monitoring, and iteration.  
-My focus is on **reliable, scalable ML and GenAI infrastructure**, not just experiments.
-
----
-
-## Focus Areas
-
-- Generative AI systems (LLMs, RAG, multimodal pipelines)
-- End-to-end ML pipelines & MLOps
-- Model deployment, monitoring, and reproducibility
-- Recommender systems and NLP
+<p align="center">
+  Designing production-grade AI systems that scale — from data to deployment.
+</p>
 
 ---
 
-## Selected Work
+## ✨ About
 
-**Generative UI Builder**  
+I build **end-to-end AI and ML systems** with a strong emphasis on **reliability, scalability, and real-world deployment**.  
+My work focuses on turning **research ideas into production-ready GenAI and ML pipelines**.
+
+I enjoy working at the intersection of **Machine Learning, Generative AI, and MLOps**, where engineering discipline matters as much as model quality.
+
+---
+
+## 🧭 Core Focus
+
+- **Generative AI & LLM Systems** — RAG, multimodal pipelines, structured outputs  
+- **MLOps & ML Systems** — reproducibility, versioning, CI/CD, monitoring  
+- **End-to-End ML Pipelines** — ingestion → training → evaluation → deployment  
+- **Recommender Systems & NLP**
+
+---
+
+## 🧩 Selected Projects
+
+### Generative UI Builder  
 *FastAPI · Next.js · LLaVA · CodeLlama · Pydantic*  
-Designed a multimodal system that converts UI screenshots and text into structured React/Tailwind components, with strict JSON schemas, prompt guardrails, and fallback logic for production stability.
+A multimodal system that converts UI screenshots and text into structured React/Tailwind components using strict JSON schemas, prompt guardrails, and fallback logic for production stability.
 
-**Production-Ready LLM API Service**  
+### Production-Ready LLM API  
 *FastAPI · Docker · MLflow*  
-Built a containerized LLM inference service with structured outputs, logging, and monitoring hooks designed for real deployment scenarios.
+A containerized LLM inference service with structured responses, logging, and monitoring hooks designed for real deployment scenarios.
 
-**AutoML Hyperparameter Optimizer**  
+### AutoML Hyperparameter Optimizer  
 *Bayesian Optimization · Random Forests*  
-Implemented an AutoML system to efficiently tune hyperparameters and benchmark optimization strategies against random search.
+An AutoML system for efficient hyperparameter tuning, benchmarking Bayesian optimization against random search.
 
-**Product & Data Analytics (Industry Experience)**  
+### Product & Data Analytics (Industry)  
 *SQL · Pandas · Power BI*  
-Developed analytical pipelines, automated KPI dashboards, and applied unsupervised learning for user segmentation and anomaly detection.
+Built analytical pipelines, automated KPI dashboards, and applied unsupervised learning for user segmentation and anomaly detection.
 
 ---
 
-## Technical Stack
+## 🛠️ Technical Toolkit
 
 **Languages**  
 Python · C++ · SQL
 
-**Machine Learning & AI**  
+**ML & AI**  
 NumPy · Pandas · Scikit-Learn · TensorFlow · Keras · NLP
 
 **GenAI & MLOps**  
@@ -55,19 +67,23 @@ AWS · Google Cloud · Git · VS Code
 
 ---
 
-## Currently Seeking
+## 🎯 Currently Looking For
 
 AI Engineer / ML Engineer / Generative AI Internships  
-Roles focused on **real systems, real users, and real scale**.
+Teams building **real products**, not just experiments.
 
 ---
 
-## Contact
+## 📫 Connect
 
-LinkedIn → https://www.linkedin.com/in/nischayvermani  
-X → https://x.com/v3rmxni7  
-Email → nischay_v@ee.iitr.ac.in
+<p align="left">
+  🔗 <a href="https://www.linkedin.com/in/nischayvermani">LinkedIn</a><br>
+  🐦 <a href="https://x.com/v3rmxni7">X (Twitter)</a><br>
+  📧 nischay_v@ee.iitr.ac.in
+</p>
 
 ---
 
-*Engineering data into intelligence — and intelligence into impact.*
+<p align="center">
+  <i>“Engineering data into intelligence — and intelligence into impact.”</i>
+</p>
