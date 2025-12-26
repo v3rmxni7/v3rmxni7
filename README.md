@@ -1,51 +1,73 @@
-#  👋 Hi, I'm Nischay
+# Nischay Vermani
 
-I’m passionate about designing and deploying **AI/ML systems pipelines** that scale.
-I love working at the intersection of  **Machine Learning, MLOps and Deep Learning**, and I’m always exploring cutting-edge frameworks.
+**AI / ML Engineer | Generative AI • MLOps • Systems**
 
----
-
-## 🚀 What I Do -
-- Exploring **Recommender Systems, Deep Learning Architectures, and NLP**  
-- Practicing **MLOps**: reproducibility, versioning, CI/CD, model deployment  
-- Constantly learning advanced **system design, distributed computing, and cloud platforms**  
+I build **production-grade AI systems** — from data pipelines and model training to deployment, monitoring, and iteration.  
+My focus is on **reliable, scalable ML and GenAI infrastructure**, not just experiments.
 
 ---
 
-## 🛠️ Tech Stack  
+## Focus Areas
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) 
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white) 
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white) 
-![Seaborn](https://img.shields.io/badge/Seaborn-1f77b4?style=for-the-badge&logo=python&logoColor=white) 
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white) 
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white) 
-![NLP](https://img.shields.io/badge/NLP-5A20CB?style=for-the-badge&logo=spacy&logoColor=white) 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white) 
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) 
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white) 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) 
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) 
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) 
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white) 
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+- Generative AI systems (LLMs, RAG, multimodal pipelines)
+- End-to-end ML pipelines & MLOps
+- Model deployment, monitoring, and reproducibility
+- Recommender systems and NLP
 
 ---
 
-## 📫 Let's Connect
-- 🐦 X : [x.com/v3rmxni7](https://x.com/v3rmxni7)  
-- 🔗 LinkedIn : [linkedin.com/in/nischayvermani](https://www.linkedin.com/in/nischayvermani)  
-- 📧 Email:  nischay_v@ee.iitr.ac.in  
+## Selected Work
+
+**Generative UI Builder**  
+*FastAPI · Next.js · LLaVA · CodeLlama · Pydantic*  
+Designed a multimodal system that converts UI screenshots and text into structured React/Tailwind components, with strict JSON schemas, prompt guardrails, and fallback logic for production stability.
+
+**Production-Ready LLM API Service**  
+*FastAPI · Docker · MLflow*  
+Built a containerized LLM inference service with structured outputs, logging, and monitoring hooks designed for real deployment scenarios.
+
+**AutoML Hyperparameter Optimizer**  
+*Bayesian Optimization · Random Forests*  
+Implemented an AutoML system to efficiently tune hyperparameters and benchmark optimization strategies against random search.
+
+**Product & Data Analytics (Industry Experience)**  
+*SQL · Pandas · Power BI*  
+Developed analytical pipelines, automated KPI dashboards, and applied unsupervised learning for user segmentation and anomaly detection.
 
 ---
 
-✨ *“Engineering data into intelligence, and intelligence into impact.”* ✨
+## Technical Stack
+
+**Languages**  
+Python · C++ · SQL
+
+**Machine Learning & AI**  
+NumPy · Pandas · Scikit-Learn · TensorFlow · Keras · NLP
+
+**GenAI & MLOps**  
+FastAPI · Docker · MLflow · GitHub Actions
+
+**Visualization & Apps**  
+Matplotlib · Seaborn · Streamlit
+
+**Cloud & Tooling**  
+AWS · Google Cloud · Git · VS Code
+
+---
+
+## Currently Seeking
+
+AI Engineer / ML Engineer / Generative AI Internships  
+Roles focused on **real systems, real users, and real scale**.
+
+---
+
+## Contact
+
+LinkedIn → https://www.linkedin.com/in/nischayvermani  
+X → https://x.com/v3rmxni7  
+Email → nischay_v@ee.iitr.ac.in
+
+---
+
+*Engineering data into intelligence — and intelligence into impact.*
