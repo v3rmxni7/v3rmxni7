@@ -1,7 +1,7 @@
 <h1 align="center">Nischay Vermani</h1>
 
 <p align="center">
-  <b>AI / ML Engineer</b> · Generative AI · MLOps · Systems  
+  <b>AI/ML Engineer</b> · Generative AI · MLOps · Systems  
 </p>
 
 <p align="center">
