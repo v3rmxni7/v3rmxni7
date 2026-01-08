@@ -1,60 +1,67 @@
-# 👋 Hi, I'm Nischay Vermani
-### AI/ML Engineer | Building Intelligence from Research to Production
+<div align="center">
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/nischayvermani"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/v3rmxni7"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="mailto:nischay_v@ee.iitr.ac.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+# Nischay Vermani
+**AI/ML Engineer · Systems Architect · MLOps Practitioner**
 
----
+Building production-grade intelligence from research to deployment.
 
-## 🧠 About Me
-I design and ship **end-to-end AI/ML systems** with a focus on **scalability, reliability, and real-world deployment**. My work bridges the gap between research and production, specializing in:
-
-* **Generative AI & LLMs:** RAG pipelines, multimodal systems, and structured outputs.
-* **MLOps & Systems:** Containerization, CI/CD for ML, and performance monitoring.
-* **Data Engineering:** Building robust pipelines from ingestion to deployment.
+[LinkedIn](https://www.linkedin.com/in/nischayvermani) / [X (Twitter)](https://x.com/v3rmxni7) / [Email](mailto:nischay_v@ee.iitr.ac.in)
 
 ---
 
-## 🛠️ Technical Toolkit
+### ✦ Philosophy
+> "Engineering data into intelligence — and intelligence into impact."
+> I focus on the intersection of Generative AI and robust system design, ensuring that models don't just perform in notebooks, but scale in production environments.
 
-| Category | Tools & Technologies |
+</div>
+
+---
+
+### 🪐 Core Expertise
+
+* **Generative AI Systems** — RAG architectures, multimodal pipelines, and agentic workflows.
+* **MLOps & Engineering** — System reliability, CI/CD for ML, containerization, and monitoring.
+* **Architectural Design** — Developing scalable backends for AI-first applications.
+
+---
+
+### 🛠️ Technical Stack
+
+| | |
 | :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=flat&logo=postgresql&logoColor=white) |
-| **AI/ML** | ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) |
-| **GenAI & MLOps** | ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![MLflow](https://img.shields.io/badge/mlflow-%23d53938.svg?style=flat&logo=mlflow&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) |
-| **Cloud & Apps** | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=Streamlit&logoColor=white) |
+| **Languages** | Python · C++ · SQL · JavaScript (React/Next.js) |
+| **Machine Learning** | PyTorch · Scikit-Learn · TensorFlow · Pandas · NumPy |
+| **Generative AI** | LLMs (GPT/Llama) · Vector DBs · LangChain · Structured Outputs |
+| **Infrastructure** | FastAPI · Docker · MLflow · AWS · Google Cloud |
 
 ---
 
-## 🧩 Selected Projects
+### 📁 Selected Works
 
-### 🚀 [Generative UI Builder](https://github.com/your-repo-link)
-**Stack:** *FastAPI, Next.js, LLaVA, CodeLlama, Pydantic*
-* Multimodal system converting UI screenshots into React/Tailwind components.
-* Implemented strict JSON schemas and fallback logic for production-grade stability.
+#### [01] Generative UI Builder
+*FastAPI · Next.js · LLaVA · Pydantic*
+A multimodal system translating visual screenshots into production-ready React components. Focused on strict schema enforcement and LLM guardrails.
 
-### 🏗️ [Production-Ready LLM API](https://github.com/your-repo-link)
-**Stack:** *FastAPI, Docker, MLflow*
-* Containerized inference service with integrated logging and monitoring hooks.
-* Optimized for structured responses and high-concurrency scenarios.
+#### [02] Production LLM API
+*FastAPI · Docker · MLflow*
+An enterprise-grade inference wrapper designed for stability. Features include automated logging, performance monitoring, and containerized scalability.
 
-### 📉 [AutoML Hyperparameter Optimizer](https://github.com/your-repo-link)
-**Stack:** *Bayesian Optimization, Scikit-Learn*
-* An automated system benchmarking Bayesian optimization against traditional random search.
+#### [03] AutoML Optimization Engine
+*Bayesian Optimization · Scikit-Learn*
+A research-focused tool for hyperparameter tuning, benchmarking efficiency across diverse model architectures.
 
 ---
 
-## 📊 GitHub Statistics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=transparent&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=transparent&hide_border=true" width="48%" />
-</p>
+### 📊 Performance Metrics
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=a9a9a9&icon_color=ffffff" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=a9a9a9" width="45%" />
+</div>
 
-<p align="center">
-  <i>“Engineering data into intelligence — and intelligence into impact.”</i>
-</p>
+<br />
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/assets/neon_line.png" width="100%" />
+  <p><i>IIT Roorkee · Class of 2026</i></p>
+</div>
